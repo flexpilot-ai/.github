@@ -16,7 +16,7 @@
 
 ## 🎯 Our Mission
 
-We're building the future of AI-powered development tools that respect developer choice and freedom. Flexpilot empowers developers to use their preferred Large Language Models while coding in VS Code while retaining the native UI experience.
+We're building the future of AI-powered development tools that respect developer choice and freedom. Flexpilot empowers developers to use their preferred Large Language Models when coding in VS Code while retaining the native UI experience.
 
 ## Get Involved
 
