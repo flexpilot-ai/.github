@@ -6,6 +6,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/flexpilot-ai/vscode-extension?style=social)](https://github.com/flexpilot-ai/vscode-extension)
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.flexpilot.ai/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fflexpilot.ai%2F)](https://flexpilot.ai/)
+[![open-source](https://img.shields.io/badge/open_source-free-blue)](https://flexpilot.ai/)
 
 ## 🎯 Mission
 
@@ -17,9 +18,3 @@ Flexpilot is redefining AI-powered development tools to give developers choice a
 - 🎛️ **Model Flexibility**: Use any LLM – OpenAI, Google Gemini, Anthropic Claude, and more
 - ⚡ **Seamless Integration**: Native in VS Code
 - 🛠️ **Developer First**: Built by developers, for developers
-
-## 📢 Stay Connected
-
-- [Website](https://flexpilot.ai)
-- [GitHub](https://github.com/flexpilot-ai)
-- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=flexpilot.flexpilot-vscode-extension)
