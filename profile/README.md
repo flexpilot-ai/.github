@@ -5,7 +5,7 @@
 [![Try Flexpilot AI Web IDE Online](https://badges.flexpilot.ai/open-in-web-ide.svg)](https://flexpilot.ai/web-ide-redirect?provider=github&owner=flexpilot-ai&repo=flexpilot-ide&branch=main)
 [![Download](https://img.shields.io/badge/download-desktop-blue?url=https%3A%2F%2Fgithub.com%2Fflexpilot-ai%2Fflexpilot-ide%2Freleases%2Flatest)](https://github.com/flexpilot-ai/flexpilot-ide/releases/latest)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fflexpilot.ai%2F)](https://flexpilot.ai/)
-[![open-source](https://img.shields.io/badge/open_source-free-blue)](https://github.com/flexpilot-ai/flexpilot-ide/blob/main/LICENSE.txt)
+[![view-source](https://img.shields.io/badge/view-source-blue)](https://github.com/flexpilot-ai/flexpilot-ide)
 
 ## 🎯 Mission
 
