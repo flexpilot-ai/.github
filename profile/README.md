@@ -6,6 +6,7 @@
 [![Download](https://img.shields.io/badge/download-desktop-blue?url=https%3A%2F%2Fgithub.com%2Fflexpilot-ai%2Fflexpilot-ide%2Freleases%2Flatest)](https://github.com/flexpilot-ai/flexpilot-ide/releases/latest)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fflexpilot.ai%2F)](https://flexpilot.ai/)
 [![view-source](https://img.shields.io/badge/view-source-blue)](https://github.com/flexpilot-ai/flexpilot-ide)
+[![Star on GitHub](https://img.shields.io/github/stars/flexpilot-ai/flexpilot-ide?style=social)](https://github.com/flexpilot-ai/flexpilot-ide)
 
 ## 🎯 Mission
 
